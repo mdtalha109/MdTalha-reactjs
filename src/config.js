@@ -1,0 +1,2 @@
+export const BASE_URL = "https://upayments-studycase-api.herokuapp.com";
+export const token = `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1kdGFsaGExMDQxQGdtYWlsLmNvbSIsImdpdGh1YiI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tZHRhbGhhMTA5IiwiaWF0IjoxNjU5MjYzNTcwLCJleHAiOjE2NTk2OTU1NzB9.KyJZ_CojVFJmBDiDadilkWyecS63dhwgvErOaKiLspY`

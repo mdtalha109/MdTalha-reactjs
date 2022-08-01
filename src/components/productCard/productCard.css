@@ -1,0 +1,26 @@
+.product-card{
+    min-width: 15vw;
+    margin: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    .select-container > select{
+        width: 40%;  
+    }
+    .product-card{
+        min-width: 35vw;
+        margin: 10px;
+    }
+
+    .product-card> .product-img  img{
+        width: 35vw;
+        height:200px;
+        background-color: white;
+        object-fit: contain;
+    }
+
+    .product-list-container{
+        
+        justify-content: space-evenly;
+    }
+}
